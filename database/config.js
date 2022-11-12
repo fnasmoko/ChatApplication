@@ -17,4 +17,4 @@ db.connect(function(error) {
     }
 });
 
-module.exports = db
+module.exports = db 
