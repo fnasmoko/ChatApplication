@@ -1,0 +1,21 @@
+{
+  "name": "merchantservice_full",
+  "version": "1.0.0",
+  "main": "create_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "body-parser": "^1.18.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
