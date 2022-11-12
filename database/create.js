@@ -76,4 +76,4 @@ db_chatApps.query(chats_table, function (err, result) {
 db_chatApps.query(messages_table, function (err, result) {
     if (err) throw err;
     console.log("Table Messages Created");
-});
+}); 
