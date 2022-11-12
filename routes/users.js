@@ -14,4 +14,4 @@ router.post('/foto', addFoto)
 
 router.delete('/:id', verifyToken, deleteUser)
 
-module.exports = router;
+module.exports = router; 
