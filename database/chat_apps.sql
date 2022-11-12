@@ -24,4 +24,4 @@ CREATE TABLE `photoTable`  (
   `foto`			    varchar(255),
   `created_at`  	datetime NOT NULL DEFAULT current_timestamp(),
   foreign key (`id`) references `users`(`id`)
-);
+); 
