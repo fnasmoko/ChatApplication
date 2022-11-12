@@ -62,5 +62,5 @@ These are the list of API /token
 ```
 [GET] /token -> to get token
 
-[GET] /token/register -> to get token with limit
+[GET] /token/register -> to get token with limit 
 ```
