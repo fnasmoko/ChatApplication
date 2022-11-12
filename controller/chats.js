@@ -112,4 +112,4 @@ const deleteGroupChat = (req, res) => {
 }
 
 
-module.exports = {showChats, showPersonalChats, showGroupChats, addChat, editChat, deleteChat, deletePersonalChat, deleteGroupChat}
+module.exports = {showChats, showPersonalChats, showGroupChats, addChat, editChat, deleteChat, deletePersonalChat, deleteGroupChat} 
