@@ -8,4 +8,4 @@ const router = express.Router();
 router.get('/', token)
 router.get('/register', tokenRegister)
 
-module.exports = router;
+module.exports = router; 
